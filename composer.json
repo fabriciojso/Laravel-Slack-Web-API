@@ -1,9 +1,13 @@
 {
-    "name": "lisennk/laravel-slack-web-api",
+    "name": "fabriciojso/laravel-slack-web-api",
     "description": "Light Laravel wrapper for Slack Web API",
-    "keywords": ["slack", "laravel", "api"],
+    "keywords": [
+        "slack",
+        "laravel",
+        "api"
+    ],
     "require": {
-        "frlnc/php-slack": "^1.0"
+        "fabriciojso/php-slack": "^1.0"
     },
     "require-dev": {
         "phpunit/phpunit": "5.5.*"
